@@ -1,0 +1,9 @@
+.App {
+ align-items: flex-start;
+  display: flex;
+  font-size: 20px;
+}
+
+.selected{
+  background-color: rgba(83, 70, 70, 0.133);
+}
